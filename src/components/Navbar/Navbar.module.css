@@ -1,0 +1,24 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(89, 103, 146);
+  }
+  .item a {
+      color: white;
+      text-decoration: none;
+  }
+  .item a.active {
+      color: gold;
+  }
+  .circle{
+    width: 80px; 
+    height: 80px; 
+    border: solid;
+    border-radius: 50%;
+    text-align: center;
+    
+    
+}
+.friend{
+    display: flex;
+    
+}
